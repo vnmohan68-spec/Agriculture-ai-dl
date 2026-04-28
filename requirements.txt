@@ -1,4 +1,4 @@
-tensorflow==2.13.0
+keras
+tensorflow-cpu
 pillow
 numpy
-requests
